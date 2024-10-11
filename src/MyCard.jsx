@@ -18,7 +18,7 @@ export default function MyCard(props) {
   />
   <CardContent>
     <Typography gutterBottom variant="h5" component="div">
-      {props.attraction.name}
+      {props.attraction.name} awdawdaw
     </Typography>
     <Typography variant="body2" 
       sx={{ color: 'text.secondary', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
